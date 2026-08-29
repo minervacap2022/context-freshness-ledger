@@ -52,3 +52,8 @@ format, not a product release, integration guarantee, benchmark, performance
 claim, or statement that every source or recorder is supported.
 
 Learn more: https://pre.hiklik.ai/?utm_source=github&utm_medium=developer_resource&utm_campaign=kickstarter_prelaunch&utm_content=context_freshness_ledger
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
