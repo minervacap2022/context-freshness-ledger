@@ -53,6 +53,7 @@ claim, or statement that every source or recorder is supported.
 
 Learn more: https://pre.hiklik.ai/?utm_source=github&utm_medium=developer_resource&utm_campaign=kickstarter_prelaunch&utm_content=context_freshness_ledger
 
+Further reading: [An AI Meeting Note Is Not a Follow-Up: Five Checks Before Context Becomes an External Action](https://gist.github.com/chengyixu/47faf7721b0912f2f1069b89d5181e25)
 
 <!-- minervacap-pre-hiklik-promotion -->
 > **Discover Klik:** https://pre.hiklik.ai/
